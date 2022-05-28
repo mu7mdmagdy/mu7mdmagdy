@@ -14,7 +14,3 @@ or via : <a href="https://mohamed-magdy.com/" target="blank">mohamed-magdy.com</
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7mdmagdy&show_icons=true&locale=en&layout=compact" alt="mu7mdmagdy" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mu7mdmagdy&show_icons=true&locale=en" alt="mu7mdmagdy" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mu7mdmagdy&" alt="mu7mdmagdy" /></p>
