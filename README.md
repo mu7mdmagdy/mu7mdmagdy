@@ -9,34 +9,26 @@
 
 
 <h3 align="left">About me:</h3>
+Software engineer experience in backend development
 
-- 🎓 Bachelor's degree in Management Information System .
-- 💻 5+ years of experience as backend developer .
-- 10+ years of experience in IT .
-- Good understanding of browser rendering behavior and performance
-- Practical experience with Object-Oriented.
-- Practical experience with data structures and algorithms.
-- Good understanding of SOLID Principles & Clean Code .
-- Demonstrable experience writing, and debugging, queries in MySQL.
-- Cloud experience.
-- Creating database schemas that represent and support business processes.
-- Experience with MVC framework ( Laravel / ExpressJs ).
-- Practical experience with cache layers (ex: Redis ) .
-- Experience with source control system ( GIT ).
-- Good Knowledge of Software Design Patterns and Software Architectural Patterns.
-- Works with Modules/Layer/Onion Architectures ( Models , Services , Repositories , DTOs , Mappers , Events , Listeners ...etc) .
-- Solid Experience developing and improving REST APIs.
-- Experience integrating with third-party APIs.
-- Familiarity with cloud message APIs and push notifications.
-- Understanding of Test-Driven Development TDD.
-- Understanding of CI/CD.
-- Understanding non-functional requirements.
-- Ability to understand business requirements and translate them into technical requirements.
-- Ability to work within a self-organized, cross-functional team.
-- Work experience with Agile / SCRUM environment.
-- Ability to multi-task, organize, and prioritize work.
-- Ability to constantly learn and adapt to new challenges.
-- Strong communication and time management skills.
+working fine with any programming language.
+most experience in PHP Native.
+I used to work with php & nodeJs .
+- experience with MVC frameworks (ex: Laravel )
+- working on maintain scalable , reliable and high available systems.
+- Long time working on refactoring legacy code
+
+Business experience :
+
+- Demonstrable experience of translating a business model into technical requirements.
+- sales experience +4y
+
+When I’m not studying or working , I like to crave out time for :
+
+- Reading novels
+- Writing a short stories
+- Acting in theatre
+- Learning about new and random fields
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
