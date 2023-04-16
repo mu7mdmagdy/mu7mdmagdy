@@ -30,7 +30,7 @@ When I’m not studying or working , I like to crave out time for :
 - Acting in theatre
 - Learning about new and random fields
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get connected :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamedmagdymostafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmagdymostafa" height="15" width="20" /></a>
 <a href="mailto:mail@mohamed-magdy.com" target="blank">:email:</a>
