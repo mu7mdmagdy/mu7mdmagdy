@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 <p align="center"><a href="https://mohamed-magdy.com/" target="blank">www.mohamed-magdy.com</a></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mu7mdmagdy&label=Profile%20views&color=0e75b6&style=flat" alt="mu7mdmagdy" /> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mu7mdmagdy&" alt="mu7mdmagdy" /></p>
